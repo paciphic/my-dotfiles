@@ -1,5 +1,5 @@
 # my-dotfiles
-#####################################################----Dependencies----#####################################################
+----Dependencies----
 
 Ubuntu > apt update && apt install mako-notifyer kitty waybar
 
